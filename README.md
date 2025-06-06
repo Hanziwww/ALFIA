@@ -443,7 +443,10 @@ Before deploying your model:
 4. **Test on held-out data**
 5. **Verify inference speed**
 
-##Cite
+This tutorial should help you get started with training and using the text classification system. For specific medical applications, ensure you follow appropriate data privacy and validation protocols.
+
+## Cite the Article
+
 ```bibtex
 @misc{wang_predicting_2025,
 	title = {Predicting {ICU} In-Hospital Mortality Using Adaptive Transformer Layer Fusion},
@@ -458,5 +461,3 @@ Before deploying your model:
 	eprint = {2506.04924 [cs]},
 }
 ```
-
-This tutorial should help you get started with training and using the text classification system. For specific medical applications, ensure you follow appropriate data privacy and validation protocols.
