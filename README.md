@@ -443,4 +443,20 @@ Before deploying your model:
 4. **Test on held-out data**
 5. **Verify inference speed**
 
+##Cite
+```bibtex
+@misc{wang_predicting_2025,
+	title = {Predicting {ICU} In-Hospital Mortality Using Adaptive Transformer Layer Fusion},
+	url = {http://arxiv.org/abs/2506.04924},
+	doi = {10.48550/arXiv.2506.04924},
+	number = {{arXiv}:2506.04924},
+	publisher = {{arXiv}},
+	author = {Wang, Han and He, Ruoyun and Lao, Guoguang and Liu, Ting and Luo, Hejiao and Qin, Changqi and Luo, Hongying and Huang, Junmin and Wei, Zihan and Chen, Lu and Xu, Yongzhi and Bi, Ziqian and Song, Junhao and Wang, Tianyang and Liang, Chia Xin and Song, Xinyuan and Liu, Huafeng and Hao, Junfeng and Tian, Chunjie},
+	urldate = {2025-06-06},
+	date = {2025-06-05},
+	eprinttype = {arxiv},
+	eprint = {2506.04924 [cs]},
+}
+```
+
 This tutorial should help you get started with training and using the text classification system. For specific medical applications, ensure you follow appropriate data privacy and validation protocols.
