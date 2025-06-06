@@ -2,7 +2,7 @@
 
 Predicting Everything Using Adaptive Transformer Layer Fusion
 
-This is a Transformer-based model using adaptive layer fusion technology and optional LoRA fine-tuning, specifically designed for MIMIC-IV medical data.
+This is a Transformer-based model using adaptive layer fusion technology and optional LoRA fine-tuning, specifically designed for medical data.
 
 ## Table of Contents
 1. [Environment Setup](#environment-setup)
